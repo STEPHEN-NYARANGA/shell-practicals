@@ -1,0 +1,190 @@
+    1  jupyter notebook
+    2  ls
+    3  ls -l
+    4  ls -L
+    5  ls -d
+    6  ls help
+    7  help ls
+    8  help
+    9  fake
+   10  aims
+   11  ls
+   12  mkdir F1
+   13  mkdir F2
+   14  mkdir F3
+   15  mkdir F4
+   16  mkdir F5
+   17  ls
+   18  man cp
+   19  man pwd
+   20  quit
+   21  help
+   22  ls
+   23  man cp
+   24  cp -r F2 F3 F4 F5 F1
+   25  ls
+   26  cd
+   27  cd F1
+   28  ls
+   29  cp -i F2 F3 F4 F5 F1
+   30  cd ..
+   31  ls/home/
+   32  ls /home
+   33  ls /
+   34  ls /etc/
+   35  nano hosts
+   36  ls
+   37  ls /
+   38  ls /var/
+   39  mv F1 F1 F2 F3 F6 fF6
+   40  cd F1
+   41  ls
+   42  cd..
+   43  cd ..
+   44  ls /etc/
+   45  mv -b
+   46  bin ls
+   47  bin
+   48  cd bin
+   49  cd /bin
+   50  ls
+   51  man bin
+   52  cd ..
+   53  uname
+   54  man -n
+   55  man -t
+   56  mkdir GQ
+   57  mkdir F 8
+   58  ls
+   59  cd media
+   60  mkdir jik
+   61  cd ..
+   62  rmdir F1
+   63  cd
+   64  cd home
+   65  cd lib64
+   66  man -b
+   67  help
+   68  man cat
+   69  kill firefox
+   70  sudo kill firefox
+   71  firefox
+   72  rebook
+   73  reboot
+   74  jupyter notebook
+   75  anaconda-navigator
+   76  sudo apt-get install jupyter-notebook
+   77  jupyter notebook
+   78  python3
+   79  help() quit
+   80  ls
+   81  rmdkir unix
+   82  ls
+   83  cd unix
+   84  ls
+   85  cd unix
+   86  ls
+   87  mkdir unix
+   88  ls
+   89  cd unix
+   90  tuoch foo.txt
+   91  ls
+   92  mkdir unix
+   93  ls
+   94  mkdir unix
+   95  touch foo.txt
+   96  cd unix
+   97  ls
+   98  mv foot.txt foo.copy.txt
+   99  ls
+  100  mkdir unix
+  101  cd unix
+  102  touch foo.txt
+  103  ls
+  104  cp foo-copy.txt
+  105  help
+  106  cp foo.txt foo-copy.txt
+  107  ls
+  108  rm foo-copy.txt foo.2txt
+  109  rm foo.2txt foo-copy
+  110  ls
+  111  cp foo.copy.txt foo.2txt
+  112  ls
+  113  mkdir unix
+  114  ls
+  115  cd unix
+  116  touch foo.txt
+  117  ls
+  118  cp foo.txt foo-copy.txt
+  119  ls
+  120  mv foo.txt foo.copy.txt
+  121  ls
+  122  mkdir unix
+  123  cd unix
+  124  touch foo.txt
+  125  ls
+  126  cp foo.txt foo-copy.txt
+  127  ls
+  128  rm foo.txt foo-copy.txt
+  129  ls
+  130  mv foo.txt foo-copy.txt
+  131  is
+  132  ls
+  133  mkdir unix
+  134  cd unix
+  135  touch foo.txt
+  136  ls
+  137  cp foo.txt foo.copy.txt
+  138  ls
+  139  ls -a
+  140  wc -c
+  141  help
+  142  ls
+  143  mkdir unix
+  144  cd unix
+  145  touch foo.txt
+  146  ls
+  147  cp foo.txt foo-copy.txt
+  148  ls
+  149  mv foo-copy.txt foo.2txt
+  150  ls
+  151  mkdir data
+  152  ls
+  153  mv foo2.txt data
+  154  ls
+  155  mkdir new
+  156  ls
+  157  mv foo.2txt new
+  158  mv data/foo2.txt new
+  159  cd data
+  160  touch foo2.txt
+  161  ls
+  162  mv data/foo2.txt new
+  163  cd ..
+  164  ls
+  165  cd new
+  166  ls
+  167  mv foo.2txt foo-old.txt
+  168  ls
+  169  cd..
+  170  cd ..
+  171  history >> exo1.txt
+  172  gedit exo1.txt
+  173  ls
+  174  cd documents
+  175  ls
+  176  cd Documents
+  177  ls
+  178  ls -a
+  179  wc 
+  180  ls
+  181  cd Desktop
+  182  ls
+  183  cd ..
+  184  cd Downloads
+  185  ls
+  186  cd unix
+  187  ls -a
+  188  wc exo1.txt
+  189  wc -c exo1.txt
+  190  history >>exo2.txt
